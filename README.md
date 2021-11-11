@@ -1,0 +1,1 @@
+# DataFrame de fallecidos por covid (MINSA)
